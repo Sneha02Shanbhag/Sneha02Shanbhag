@@ -8,4 +8,5 @@
 📫 How to reach me: snehashanbhag02@gmail.com
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha02Shanbhag&layout=compact&langs_count=6&theme=radical)
 
