@@ -8,7 +8,6 @@ Learner & Developer.
 
 📫 How to reach me: snehashanbhag02@gmail.com
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha02Shanbhag&layout=compact&langs_count=10&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha02Shanbhag&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=000000)
 
 
